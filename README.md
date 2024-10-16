@@ -1,6 +1,6 @@
 # NFT Game Project
 For this project I built an Web3 game that allows users to select a playable minted NFT character that they then use to play the game
-
+hi your project is very interesting for me, you can conatct me in telegram https://t.me/vitalik_krav
 ## Frameworks used
 <ul>
   <li>Reactjs</li>
